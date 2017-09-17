@@ -1,6 +1,6 @@
 # Diseño Nova
 
-Diseño Full Responsive 2
+Diseño Full Responsive
 
 # Project Title
 
