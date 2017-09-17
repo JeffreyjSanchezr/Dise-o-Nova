@@ -170,6 +170,6 @@ Nuestro diseño es gratuito This project is licensed under the MIT License - see
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* HTML5
+* CSS3
+* Javascript
